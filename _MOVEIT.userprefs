@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_MOVEIT\__SCRIPTS\_Difficolta.js">
+    <Files>
+      <File FileName="Assets\_MOVEIT\__SCRIPTS\_Difficolta.js" Line="45" Column="40" />
+      <File FileName="Assets\_MOVEIT\__SCRIPTS\_Punteggio.js" Line="7" Column="1" />
+      <File FileName="Assets\_MOVEIT\__SCRIPTS\_RandomObject.js" Line="147" Column="57" />
+      <File FileName="Assets\_MOVEIT\__SCRIPTS\_CountDown.js" Line="186" Column="18" />
+      <File FileName="Assets\_MOVEIT\__SCRIPTS\_Pausa.js" Line="61" Column="37" />
+      <File FileName="Assets\_MOVEIT\__SCRIPTS\_Vite.js" Line="3" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
